@@ -1,0 +1,11 @@
+--[[
+module Base
+{
+	model SandBag
+	{
+		mesh = WorldItems/SandBag,
+		texture = WorldItems/Item_Sandbag,
+		scale = 0.8,
+	}
+}
+]]--

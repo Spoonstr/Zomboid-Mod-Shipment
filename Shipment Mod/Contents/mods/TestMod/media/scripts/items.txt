@@ -1,0 +1,12 @@
+module Base
+{
+    item SupplyBag
+    {
+	    DisplayName	=   Supply Bag,
+        DisplayCategory =   Trucker Supply,
+        Type =  Normal,
+	    Weight =   0.1,
+        Icon =  Sandbag,
+        WorldStaticModel = SandBag,
+    }   
+}
